@@ -8,7 +8,7 @@ Código de implementação de led com botão de acesso remoto
 #include <PubSubClient.h>
 
 
-const char* SSID = "Apuea";
+const char* SSID = "Apuea"; // nome da rede
 const char* PASSWORD = "desemb2019"; 
 
 #define ID_MQTT "aahh"
